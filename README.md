@@ -1,3 +1,3 @@
 # Git and Github
 
-A tutorial for git to be a master!!!
+A tutorial for git to be a master!!
